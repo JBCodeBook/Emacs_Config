@@ -2,20 +2,30 @@
 ;; ----- smex-history -----
 (
  eval-buffer
- load-file
- undo
+ magit-commit
+ magit
+ yas-reload-all
+ package-install
  comment-box
- uncomment-region
- toggle-debug-on-error
- cd
+ all-the-icons-install-fonts
 )
 
 ;; ----- smex-data -----
 (
- (undo . 5)
- (eval-buffer . 17)
- (comment-box . 2)
+ (undo . 6)
+ (eval-buffer . 38)
+ (comment-box . 3)
  (toggle-debug-on-error . 1)
  (uncomment-region . 2)
  (load-file . 1)
+ (magit-remote . 8)
+ (magit-commit . 6)
+ (magit . 6)
+ (magit:-- . 1)
+ (package-refresh-contents . 1)
+ (magit-pull . 2)
+ (magit-push . 2)
+ (all-the-icons-install-fonts . 1)
+ (package-install . 1)
+ (yas-reload-all . 4)
 )

@@ -68,7 +68,7 @@
   :init      ;; tweak dashboard config before loading it
   (setq dashboard-set-heading-icons t)
   (setq dashboard-set-file-icons t)
-  (setq dashboard-banner-logo-title "Emacs Is More Than A Text Editor!")
+  (setq dashboard-banner-logo-title "I'm not dumb. I just have a command of thoroughly useless information.")
   ;;(setq dashboard-startup-banner 'logo) ;; use standard emacs logo as banner
   (setq dashboard-startup-banner "~/.emacs.d/calvin.png")  ;; use custom image as banner
   (setq dashboard-center-content nil) ;; set to 't' for centered content
