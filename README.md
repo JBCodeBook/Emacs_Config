@@ -1,4 +1,4 @@
-This Repository contains my current AwesomeWM Configuration
+This Repository contains my current Emacs Configuration
 
 Packages installed to date include:
 * Ivy
