@@ -8,4 +8,6 @@
 /image-dired/
 /url
 session.*
-*~
+recentf*
+smex-items
+config.org_archive
