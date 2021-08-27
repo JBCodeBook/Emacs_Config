@@ -11,7 +11,7 @@
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
    (quote
-    (magit dashboard smex wgrep use-package minions ivy-prescient ivy-hydra flx doom-themes doom-modeline counsel command-log-mode all-the-icons-ivy-rich))))
+    (yasnippet-snippets yasnippet magit dashboard smex wgrep use-package minions ivy-prescient ivy-hydra flx doom-themes doom-modeline counsel command-log-mode all-the-icons-ivy-rich))))
 
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
@@ -19,3 +19,6 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
+
+
+             
