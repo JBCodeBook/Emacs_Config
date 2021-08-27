@@ -1,15 +1,11 @@
 *~
 /auto-save-list/
+/elpa/
 /backup/
 /bookmarks.bmk
 /desktop/*
-/eshell/*
 /history
-/server/
-/tramp
-/geben/
-/erc/*
 /image-dired/
 /url
 session.*
-/my-lisp/*.elc
+*~
