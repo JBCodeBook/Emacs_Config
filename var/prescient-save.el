@@ -1,0 +1,2 @@
+
+(funcall prescient-cache-callback :version (quote 5) :history (quote #s(hash-table size 65 test equal rehash-size 1.5 rehash-threshold 0.8125 data ("eval-buffer" 0 "package-install" 2 "all-the-icons-ivy-rich" 1))) :frequency (quote #s(hash-table size 65 test equal rehash-size 1.5 rehash-threshold 0.8125 data ("eval-buffer" 3.9641704342135426 "package-install" 0.985089730404757 "all-the-icons-ivy-rich" 0.988053892081))) :serial-number (quote 6))
